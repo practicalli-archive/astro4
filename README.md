@@ -1,4 +1,4 @@
-# Practicalli Astro Configuration
+# ARCHIVED: Practicalli Astro Configuration
 
 Clojure development and more with [Neovim 0.10.x](https://neovim.org/) and [AstroNvim version 4](https://github.com/AstroNvim/AstroNvim)
 
